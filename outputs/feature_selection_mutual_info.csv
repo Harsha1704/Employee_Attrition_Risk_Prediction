@@ -1,0 +1,74 @@
+,0
+RetentionScore,0.05387696488286764
+OverTime,0.052140399320776076
+MonthlyIncome,0.03466568434015338
+ManagerRelationshipScore,0.03462995395553259
+IncomePerYear,0.03432567371251749
+CompensationScore,0.03309336410404429
+WorkloadScore,0.03118664547409189
+JobSwitchFrequency,0.031095854737220208
+WorkLifeStress,0.030566674849622055
+YearsWithoutPromotion,0.02974223319036562
+ExperienceRatio,0.02891091918079236
+IncomeGrowthPotential,0.026328123271403214
+IncomeCategory_<3K,0.02590429746131595
+JobInvolvement,0.024874509690235413
+YearsAtCompany,0.024559020929910247
+StockOptionLevel,0.023981572694138586
+JobLevel,0.023282384484021534
+TotalWorkingYears,0.023099959646813994
+CareerProgressionRate,0.022128247975062854
+TenureCategory_New (0-1y),0.021609837521431086
+YearsInCurrentRole,0.019791926100621415
+JobRole_Human Resources,0.01918121828540187
+EmployeeValueScore,0.018726495151767608
+PromotionDelay,0.018400926112033478
+Department_Sales,0.016938911473998397
+PromotionFrequency,0.016542985767294738
+JobRole_Sales Representative,0.016404158532650204
+BusinessTravel_Travel_Frequently,0.01623771129508156
+EducationField_Marketing,0.015593090045932234
+Age,0.015522627239720421
+CompanyLoyalty,0.01513022710622347
+JobRole_Research Director,0.014716657015327206
+JobSatisfaction,0.014634818082715828
+IncomeCategory_3K-6K,0.014277680674039006
+YearsWithCurrManager,0.014213111969280767
+EngagementScore,0.013022548888070418
+EducationField_Medical,0.011945239706099064
+NumCompaniesWorked,0.011290767511502375
+JobRole_Manager,0.009919588650930677
+TenureCategory_Veteran (7y+),0.009319940106032876
+Department_Research & Development,0.008845740350293951
+SatisfactionScore,0.008640427795060246
+WorkLifeBalance,0.007225815396044721
+PercentSalaryHike,0.00682304799200617
+MaritalStatus_Single,0.0060042739160148795
+IncomeCategory_6K-10K,0.005115277190969714
+JobRole_Manufacturing Director,0.004464214430446312
+Education,0.004049063155947774
+AgeCategory_36-45,0.002532029512315681
+BusinessTravel_Travel_Rarely,0.002358912354424758
+MonthlyRate,0.002352039604606837
+TenureCategory_Established (3-7y),0.0022200096556865834
+PerformanceRating,0.0013887586803313923
+AgeCategory_26-35,4.137868582820836e-05
+DailyRate,0.0
+DistanceFromHome,0.0
+EnvironmentSatisfaction,0.0
+Gender,0.0
+HourlyRate,0.0
+IncomePerYearOfExperience,0.0
+YearsSinceLastPromotion,0.0
+RelationshipSatisfaction,0.0
+CareerStagnationScore,0.0
+TrainingTimesLastYear,0.0
+TravelRisk,0.0
+JobRole_Laboratory Technician,0.0
+EducationField_Technical Degree,0.0
+EducationField_Other,0.0
+PerformanceRisk,0.0
+MaritalStatus_Married,0.0
+JobRole_Sales Executive,0.0
+JobRole_Research Scientist,0.0
+AgeCategory_46-60,0.0

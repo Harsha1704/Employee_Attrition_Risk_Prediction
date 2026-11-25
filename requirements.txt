@@ -1,0 +1,20 @@
+# Pinned to EXACT versions used to train the shipped models/*.pkl artifacts.
+# joblib/pickle model files are NOT portable across scikit-learn versions —
+# if you see errors like "ModuleNotFoundError: No module named '_loss'" or
+# "find_class" pickle errors, it means your installed scikit-learn version
+# differs from the one below. Either install these exact versions, or
+# retrain locally with `python train_models.py` to regenerate the .pkl
+# files against whatever versions you have installed.
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.8.0
+matplotlib==3.9.2
+seaborn==0.13.2
+joblib==1.5.3
+streamlit==1.38.0
+xgboost==2.1.1
+lightgbm==4.6.0
+catboost==1.2.10
+imbalanced-learn==0.14.2
+shap==0.52.0
+optuna==4.9.0
